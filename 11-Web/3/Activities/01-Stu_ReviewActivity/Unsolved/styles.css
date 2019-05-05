@@ -1,0 +1,22 @@
+/* Add your styles here */
+
+/* Dealing with the navbar and the specific links inside*/
+.navbar{
+  padding: 10px;
+  background-color: rgb(50, 115, 220);
+}
+
+.navbar li{
+  display: inline-block;
+  padding: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+}
+
+.navbar li a{
+  color: #000;
+  text-decoration: none;
+}

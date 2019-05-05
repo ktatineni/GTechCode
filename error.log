@@ -1,0 +1,44 @@
+[I 13:42:10.789 LabApp] The port 8888 is already in use, trying another port.
+[I 13:42:10.790 LabApp] The port 8889 is already in use, trying another port.
+[I 13:42:10.791 LabApp] The port 8890 is already in use, trying another port.
+[I 13:42:10.791 LabApp] The port 8891 is already in use, trying another port.
+[I 13:42:10.792 LabApp] The port 8892 is already in use, trying another port.
+[I 13:42:10.817 LabApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 13:42:10.818 LabApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[W 13:42:10.819 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 13:42:10.834 LabApp] JupyterLab extension loaded from /anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 13:42:10.834 LabApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[I 13:42:10.834 LabApp] Serving notebooks from local directory: /Users/krishna/Documents/School/GeorgiaTech/Share
+[I 13:42:10.834 LabApp] The Jupyter Notebook is running at:
+[I 13:42:10.834 LabApp] http://localhost:8815/?token=14605fe6d56a3e2cab1eb5eed8de77408cd310256e522fce
+[I 13:42:10.834 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:42:10.838 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/krishna/Library/Jupyter/runtime/nbserver-2972-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8815/?token=14605fe6d56a3e2cab1eb5eed8de77408cd310256e522fce
+[W 13:42:13.015 LabApp] Could not determine jupyterlab build status without nodejs
+[W 13:42:13.486 LabApp] 404 GET /api/contents/GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved?1553967733323 (::1): No such file or directory: GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved
+[W 13:42:13.486 LabApp] No such file or directory: GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved
+[W 13:42:13.492 LabApp] 404 GET /api/contents/GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved?1553967733323 (::1) 7.16ms referer=http://localhost:8815/lab
+[W 13:42:13.493 LabApp] 404 GET /api/contents/GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved/airport_heatmap.ipynb?content=0&1553967733323 (::1): No such file or directory: GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved/airport_heatmap.ipynb
+[W 13:42:13.493 LabApp] No such file or directory: GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved/airport_heatmap.ipynb
+[W 13:42:13.494 LabApp] 404 GET /api/contents/GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved/airport_heatmap.ipynb?content=0&1553967733323 (::1) 1.44ms referer=http://localhost:8815/lab
+[W 13:42:13.496 LabApp] 404 GET /api/contents/GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/README.md?content=0&1553967733324 (::1): No such file or directory: GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/README.md
+[W 13:42:13.496 LabApp] No such file or directory: GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/README.md
+[W 13:42:13.496 LabApp] 404 GET /api/contents/GTATL201902DATA3/06-Python-APIs/3/Activities/07-Stu_Airport_Map/README.md?content=0&1553967733324 (::1) 1.24ms referer=http://localhost:8815/lab
+[I 13:42:15.441 LabApp] Creating new notebook in /
+[I 13:42:15.642 LabApp] Kernel started: 89e2fe56-2f5c-40de-aa32-be65091f5e62
+[I 13:42:16.130 LabApp] Adapting to protocol v5.1 for kernel 89e2fe56-2f5c-40de-aa32-be65091f5e62
+[I 13:42:16.131 LabApp] Adapting to protocol v5.1 for kernel 89e2fe56-2f5c-40de-aa32-be65091f5e62
+[I 13:42:32.233 LabApp] Kernel shutdown: 89e2fe56-2f5c-40de-aa32-be65091f5e62
+[W 13:42:32.243 LabApp] delete /Untitled.ipynb
+[W 13:42:39.387 LabApp] Notebook 06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved/airport_heatmap.ipynb is not trusted
+[I 13:42:39.519 LabApp] Kernel started: 5685e4b7-20a5-4f00-a2bb-0767bc020abc
+[I 13:42:39.915 LabApp] Adapting to protocol v5.1 for kernel 5685e4b7-20a5-4f00-a2bb-0767bc020abc
+[I 13:44:39.483 LabApp] Saving file at /06-Python-APIs/3/Activities/07-Stu_Airport_Map/Unsolved/airport_heatmap.ipynb
+[I 13:49:48.683 LabApp] Starting buffering for 5685e4b7-20a5-4f00-a2bb-0767bc020abc:4bc1eeec-07a3-41bf-8198-1d034bbb1293
+[C 10:23:46.779 LabApp] received signal 15, stopping
+[I 10:23:46.796 LabApp] Shutting down 1 kernel
+[I 10:23:48.340 LabApp] Kernel shutdown: 5685e4b7-20a5-4f00-a2bb-0767bc020abc
